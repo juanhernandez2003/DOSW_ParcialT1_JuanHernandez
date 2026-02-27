@@ -24,11 +24,11 @@ facilidad con estructuras que estan anidadas como un arbol usando recursión y p
 
 # Patrón 2
 #  a. Nombre del Patrón
-
+Iterator
 # b. Tipo de Patrón
-
+Comportamiento
 # c. Justificación
-
+Este patrón de diseño es ideal porque permite registrar la estructura académica recorriendo toda la colección al mismo tiempo si es necesario
 
 ## 3. Requerimientos del sistema
 # Requerimientos funcionales
