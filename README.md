@@ -32,11 +32,17 @@ facilidad con estructuras que estan anidadas como un arbol usando recursión y p
 
 ## 3. Requerimientos del sistema
 # Requerimientos funcionales
-- La interfaz debe ser responsive
+- El sistema debe permitir registrar la estructura académica jerárquica del curso
 - El cálculo de métricas académicas debe responder en máximo 2 segundos para el 95% de las consultas
 - El sistema debe soportar al menos 500 estudiantes concurrentes   consultando resultados.
 # Requerimientos no funcionales
 - La aplicación web debe utilizar los colores institucionales
 - La tipografía debe ser Poppins
+
+## 4. Diagrama de casos de uso
+# Requerimiento elegido
+- El sistema debe permitir registrar la estructura académica jerárquica del curso
+<img width="1320" height="657" alt="image" src="https://github.com/user-attachments/assets/5d1c6dae-bf9f-43bb-868b-33ed8ac15979" />
+<img width="1320" height="657" alt="image" src="https://github.com/user-attachments/assets/5d1c6dae-bf9f-43bb-868b-33ed8ac15979" />
 
 
