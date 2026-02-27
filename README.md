@@ -9,5 +9,6 @@ Parcial Juan Esteban Hernández Moreno DOSW-1
 
 ### Desarrollo del parcial
 ## 1. Diagrama de Contexto
-<img width="1331" height="639" alt="image" src="https://github.com/user-attachments/assets/f4b02fb5-ecd3-4912-9529-527a81c77703" />
+<img width="1337" height="642" alt="image" src="https://github.com/user-attachments/assets/d97e0375-1b45-4468-8ba9-70ced98a3870" />
+
 
